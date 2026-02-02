@@ -9,13 +9,13 @@
 
 <!-- Social links -->
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/manarrezik">
     <img src="https://img.shields.io/badge/GitHub-f8bbd0?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/manar-rezik/">
     <img src="https://img.shields.io/badge/LinkedIn-f48fb1?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:manarrezik.contact@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-fce4ec?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -24,14 +24,4 @@
 
 ---
 
-## 🌷 About Me
 
-```ts
-const manar = {
-  role: "Full-Stack Web Developer",
-  location: "Algeria 🇩🇿",
-  stack: ["Angular", ".NET", "SQL Server"],
-  values: ["clean architecture", "readable code", "good UX"],
-  aesthetic: "soft · minimal · intentional",
-  currentlyLearning: ["Advanced Angular", "System Design"],
-};
